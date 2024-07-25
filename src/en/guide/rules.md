@@ -8,7 +8,7 @@ order: 2
 # 设置作者
 author: EDGW_
 # 设置写作时间
-date: 2024-7-14
+date: 2024-07-14
 # 一个页面可以有多个分类
 category:
   - Guide

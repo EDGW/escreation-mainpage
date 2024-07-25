@@ -27,7 +27,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "苏ICP备",
+      footer: "<a href=\"https://beian.miit.gov.cn/\">苏ICP备2024118086号</a>",
       copyright: "版权所有 © 2024 Escreation", 
       displayFooter: true,
 
@@ -46,7 +46,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "苏ICP备",
+      footer: "<a href=\"https://beian.miit.gov.cn/\">苏ICP备2024118086号</a>",
       copyright: "Copyright © 2024 Escreation", 
 
       displayFooter: true,

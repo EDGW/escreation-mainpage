@@ -11,12 +11,12 @@ export const enNavbar = navbar([
       {
         text: "World Map",
         icon: "globe",
-        link: "/map/world/"
+        link: "/en/map/world/"
       }, 
       {
         text: "Railway Map",
         icon: "train",
-        link: "/map/railway/"
+        link: "https://www.escreation.cn/map/railway/"
       }, 
     ]
   }

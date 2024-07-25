@@ -8,7 +8,7 @@ order: 3
 # 设置作者
 author: EDGW_
 # 设置写作时间
-date: 2024-7-14
+date: 2024-07-14
 # 一个页面可以有多个分类
 category:
   - Guide
@@ -33,7 +33,7 @@ Click on the card to find contact information.
   title: EDGW_
   desc: Owner, Technical Stuff Member
   logo: /icons/edgw_icon.jpg
-  link: /members/edgw-underline/
+  link: /en/members/edgw-underline/
   background: rgba(0, 158, 255, 0.15)
   ```
 
@@ -41,13 +41,13 @@ Click on the card to find contact information.
   title: Komi247
   desc: Physical Owner, Operator
   logo: /icons/komi_icon.jpg
-  link: /members/komi247/
+  link: /en/members/komi247/
   background: rgba(0, 188, 255, 0.15)
   ```
   ```component VPCard
   title: JohnOscar
   desc: Operator, EDGW_'s friend
   logo: /icons/johnoscar_icon.jpg
-  link: /members/johnoscar/
+  link: /en/members/johnoscar/
   background: rgba(0, 188, 255, 0.15)
   ```

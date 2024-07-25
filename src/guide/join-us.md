@@ -27,12 +27,13 @@ star: true
 你应当阅读我们的 [服务器规则](rules.html) ，加入我们的QQ群，安装服务器整合包，然后进入我们的服务器。在此之前，您可以先参观我们服务器的 [网页地图](/map/world) 。
 
   ```component VPCard
-  title: Escreation QQ群
+  title: Escreation QQ群 
   desc: 855934082
   logo: /icons/qq_group_icon.jpg
   link: https://qm.qq.com/cgi-bin/qm/qr?k=acxDUf4l_9nJtqKWq_qftWj1Svt_eXhJ&jump_from=webapi&authKey=BnptyPmCG6qPtDI3tnWT09mpRrlJ3px1qsDlxEmqfhZymPwoefkl5TTpoSwx2D9o
   background: rgba(253, 230, 138, 0.15)
   ```
+  
 
 我们服务器使用外置登录，若您没有 Littke Skin 账户，您需要在 [Little Skin](https://littleskin.cn) 注册一个账户并创建您的角色，您可以在该网站自定义你的皮肤。
 

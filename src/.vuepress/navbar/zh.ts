@@ -15,7 +15,7 @@ export const zhNavbar = navbar([
       {
         text: "铁路地图",
         icon: "train",
-        link: "/map/railway/"
+        link: "https://www.escreation.cn/map/railway/"
       }, 
     ]
   }

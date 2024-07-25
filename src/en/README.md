@@ -16,6 +16,9 @@ actions:
     link: ./guide/join-us.html
     type: primary
 
+  - text: Web map
+    link: ./map/world/
+
   - text: Rules
     link: ./guide/rules.html
 

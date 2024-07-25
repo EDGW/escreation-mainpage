@@ -16,6 +16,9 @@ actions:
     link: ./guide/join-us.html
     type: primary
 
+  - text: 看看地图
+    link: ./map/world/
+
   - text: 服务器规定
     link: ./guide/rules.html
 
